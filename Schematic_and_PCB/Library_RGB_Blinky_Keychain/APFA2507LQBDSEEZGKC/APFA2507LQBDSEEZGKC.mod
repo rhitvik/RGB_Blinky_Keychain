@@ -1,0 +1,52 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+APFA2507LQBDSEEZGKC
+$EndINDEX
+$MODULE APFA2507LQBDSEEZGKC
+Po 0 0 0 15 00000000 00000000 ~~
+Li APFA2507LQBDSEEZGKC
+Cd Side-view RGB LED
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0 0 1 0.9 0 0.05 N H 21 "APFA2507LQBDSEEZGKC"
+T1 0 0 1 0.9 0 0.05 N H 21 "VAL**"
+DA 1.375 -0.725 1.4 -1.25 -900 0.127 21
+DA 2.1 -0.75 2.1 -1.25 900 0.127 21
+$PAD
+Sh "2" R 0.45 0.5 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.32 -0.1
+$EndPAD
+$PAD
+Sh "1" R 0.85 0.9 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.42 -0.46
+$EndPAD
+$PAD
+Sh "4" R 0.85 0.9 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.08 -0.44
+$EndPAD
+$PAD
+Sh "3" R 0.45 0.5 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.18 -0.1
+$EndPAD
+$EndMODULE APFA2507LQBDSEEZGKC

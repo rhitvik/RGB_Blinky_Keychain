@@ -1,0 +1,46 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# KMR421GULCLFS
+#
+DEF KMR421GULCLFS S 0 40 Y N 1 L N
+F0 "S" -190 180 50 H V L BNN
+F1 "KMR421GULCLFS" -191 -261 50 H V L BNN
+F2 "SW_KMR421GULCLFS" 0 0 50 H I L BNN
+F3 "Switch Tactile N.O. SPST Round Button Gull Wing 0.05A 32VDC 1VA 200000Cycles 2N SMD Automotive T/R" 0 0 50 H I L BNN
+F4 "https://www.digikey.com/product-detail/en/c-k/KMR421GULCLFS/CKN12152CT-ND/3861094?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F5 "KMR421GULCLFS" 0 0 50 H I L BNN
+F6 "None" 0 0 50 H I L BNN
+F7 "CKN12152CT-ND" 0 0 50 H I L BNN
+F8 "C&K" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 -300 100 0 100 N
+P 2 0 0 6 0 100 200 100 N
+P 2 0 0 6 -200 -100 0 -100 N
+C 0 60 7 0 0 10 N
+C 0 -60 7 0 0 10 N
+P 2 0 0 6 0 -100 200 -100 N
+P 2 0 0 6 0 -60 0 -100 N
+P 2 0 0 6 0 60 0 100 N
+P 2 0 0 6 0 60 50 -50 N
+P 2 0 0 6 90 -20 120 -20 N
+P 2 0 0 6 120 -20 150 -20 N
+P 2 0 0 6 100 -40 140 -40 N
+P 2 0 0 6 200 0 120 0 N
+P 2 0 0 6 120 0 120 -20 N
+P 2 0 0 6 130 -60 110 -60 N
+P 2 0 0 10 200 160 200 -160 N
+P 2 0 0 10 200 -160 -200 -160 N
+P 2 0 0 10 -200 -160 -200 160 N
+P 2 0 0 10 -200 160 200 160 N
+X 1 1 -300 100 100 R 40 40 0 0 P 
+X 2 2 -300 -100 100 R 40 40 0 0 P 
+X 3 3 300 -100 100 L 40 40 0 0 P 
+X 4 4 300 100 100 L 40 40 0 0 P 
+X G 5 300 0 100 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,3 @@
+Project_Infineon_Rev-10 has the code for the project (atmel studio 7)
+
+USE FUSE SETTING 0xFE AFTER UPLOADING THE CODE (this disables the reset pin and lets it to be used as GPIO)
