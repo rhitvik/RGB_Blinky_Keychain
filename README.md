@@ -1,4 +1,4 @@
-# RGB_Blinky_Keychain
+# RGB Blinky Keychain
  
 ![RGB Blinky Keychain](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Keychain_Image.jpg)
 
