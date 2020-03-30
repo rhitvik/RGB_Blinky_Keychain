@@ -21,7 +21,9 @@ Once the image is exported as a jpeg, in the KiCad project file  we go to the im
 [Click here to view Code](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Code/Project_Infineon_Rev-10/main.cpp)
 
 **Note 1: USE FUSE SETTING 0xFE AFTER UPLOADING THE CODE (this disables the Reset pin and lets it to be used as GPIO)**
+
 **Note 2: SET THE FUSE SETTINGS ONLY AFTER THE CODE IS UPLOADED OR ELSE A HIGH VOLTAGE PROGRAMMER WILL BE REQUIRED**
+
 **Programming/Debugging Unit Used: ATMEL ICE** [Shop Here](https://www.digikey.com/product-detail/en/microchip-technology/ATATMEL-ICE/ATATMEL-ICE-ND/4753379)
 
 ## Future Plans
