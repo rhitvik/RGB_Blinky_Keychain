@@ -14,6 +14,9 @@ Once the image is exported as a jpeg, in the KiCad project file we go to the imp
 ## Circuit
 ![](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/Circuit.PNG "Schematic Capture")
 
+## Project files and Libraries
+[LED Flasher Circuit](https://github.com/rhitvik/RGB_Blinky_Keychain/tree/master/Schematic_and_PCB)
+
 ## Bill Of Materials (BOM)
 [Link to the BOM](https://github.com/rhitvik/RGB_Blinky_Keychain/tree/master/BOM)
 
