@@ -23,11 +23,6 @@ Once the image is exported as a jpeg, in the KiCad project file  we go to the im
 **Note 2: SET THE FUSE SETTINGS ONLY AFTER THE CODE IS UPLOADED OR ELSE A HIGH VOLTAGE PROGRAMMER WILL BE REQUIRED**
 **Programming/Debugging Unit Used: ATMEL ICE** [Shop Here](https://www.digikey.com/product-detail/en/microchip-technology/ATATMEL-ICE/ATATMEL-ICE-ND/4753379)
 
-## Some More Images
-![](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/PCB_Design.PNG)
-![](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/Screenshot_Front.PNG)
-![](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/Screenshot_Back.PNG)
-
 ## Future Plans
 RGB Blinky Keychains 2.0 are currently under development which includes upgraded LEDs that emmit diffused light and are more power efficient. Also, the boards will include a costom designed High-Voltage TPI interface that will eliminate the microcontroller's requirement to be preprogrammed by the supplier and will bring the manufacturing costs lower. Also, these new boards will have a multiple options of PCB Art to choose from.
 
