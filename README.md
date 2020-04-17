@@ -13,7 +13,7 @@ Read more on Power-conscious breathing effect [here](https://www.instructables.c
 
 <div align="center"> 
 
-![]https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB.jpg)
+![](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB.jpg)
 <div align="left"> 
 
 ## PCB Art
@@ -22,7 +22,7 @@ Once the image is exported as a jpeg, in the KiCad project file we go to the imp
 
 ## Circuit
 <div align="center"> 
-	
+
 ![](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/Circuit.PNG "Schematic Capture")
 <div align="left"> 
 
