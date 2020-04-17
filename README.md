@@ -1,6 +1,7 @@
 # RGB Blinky Keychain
 
-<div align="center"> 
+<div align="center">
+
 ![RGB Blinky Keychain](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Keychain_Image.jpg)
 <div align="left"> 
 
@@ -11,6 +12,7 @@ The novelty behind the project is the firmware developed for the microcontroller
 Read more on Power-conscious breathing effect [here](https://www.instructables.com/id/How-to-Make-Proper-Rainbow-and-Random-Colors-With-/)
 
 <div align="center"> 
+
 ![]https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB.jpg)
 <div align="left"> 
 
@@ -20,6 +22,7 @@ Once the image is exported as a jpeg, in the KiCad project file we go to the imp
 
 ## Circuit
 <div align="center"> 
+	
 ![](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/Circuit.PNG "Schematic Capture")
 <div align="left"> 
 
