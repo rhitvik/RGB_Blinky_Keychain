@@ -6,6 +6,9 @@ These are the blinky boards that NYU plans to include in the welcome kits for th
 
 ## Novelty of the Project
 The novelty behind the project is the firmware developed for the microcontroller can generate an RGB breathing effect in a very limited space and resource-constrained ATtiny10 microcontroller. This microcontroller features 1 Kilobyte of flash memory and 32 bytes of RAM. While this microcontroller only supports only 2 PWM pins, I managed to implement a power-conscious, single-interrupt request process based HSV algorithm that worked as a State-Machine. 
+Read more on Power-conscious breathing effect [here](https://www.instructables.com/id/How-to-Make-Proper-Rainbow-and-Random-Colors-With-/)
+
+![]https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB.jpg)
 
 ## PCB Art
 Monochromatic vector art is imported from any photo editing software like Adobe AI or Inkscape. This is the place where we also set the dimensions of the image we are looking to go with. We want to be sure that the bitmap extracted is negative or otherwise, the dimensions will be altered as the software only extracts the images that touch the bitmap on the extremities and not the dimensions set by us in the panel.
