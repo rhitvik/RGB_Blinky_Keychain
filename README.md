@@ -4,10 +4,6 @@
 
 ![RGB Blinky Keychain](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Keychain_Image.jpg)
 
-[![Alt text](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Thumbnail.jpg)](https://www.youtube.com/watch?v=NwK5qySm0T8&feature=youtu.be)
-
-*Link to Video*
-
 <div align="left"> 
 
 These are the blinky boards that NYU sent as the welcome gifts for the class of 2024. This RGB Blinky board features RGB breathing lights, PCB Art and doubles as a soldering practice kit. 1600 of these are manufactured in total. NYU is planning to have these boards manufactured for the class of 2025 and 2026 as well.
@@ -33,6 +29,9 @@ Once the image is exported as a jpeg, in the KiCad project file we go to the imp
 
 ## Project files and Libraries
 [LED Flasher Circuit](https://github.com/rhitvik/RGB_Blinky_Keychain/tree/master/Schematic_and_PCB)
+
+## Link to Video
+[![Alt text](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Thumbnail.jpg)](https://www.youtube.com/watch?v=NwK5qySm0T8&feature=youtu.be)
 
 ## Bill Of Materials (BOM)
 [Link to the BOM](https://github.com/rhitvik/RGB_Blinky_Keychain/tree/master/BOM)
