@@ -10,7 +10,7 @@
 
 <div align="left"> 
 
-These are the blinky boards that NYU plans to include in the welcome kits for the class of 2024. This RGB Blinky board features RGB breathing lights, PCB Art and doubles as a soldering practice kit. 1600 of these are manufactured in total. NYU is also planning to have these boards manufactured for the class of 2025 as well.
+These are the blinky boards that NYU sent as the welcome gifts for the class of 2024. This RGB Blinky board features RGB breathing lights, PCB Art and doubles as a soldering practice kit. 1600 of these are manufactured in total. NYU is planning to have these boards manufactured for the class of 2025 and 2026 as well.
 
 ## Novelty of the Project
 The novelty behind the project is the firmware developed for the microcontroller can generate an RGB breathing effect in a very limited space and resource-constrained ATtiny10 microcontroller. This microcontroller features 1 Kilobyte of flash memory and 32 bytes of RAM. While this microcontroller only supports only 2 PWM pins, I managed to implement a power-conscious, single-interrupt request process based HSV algorithm that worked as a State-Machine. 
