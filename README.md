@@ -1,7 +1,7 @@
 # RGB Blinky Keychain
 
 <div align="center">
-
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?projector=1)
 ![RGB Blinky Keychain](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Keychain_Image.jpg)
 <div align="left"> 
 
