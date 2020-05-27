@@ -2,10 +2,11 @@
 
 <div align="center">
 
+![RGB Blinky Keychain](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Keychain_Image.jpg)
+
+## Link to Video
 [![Alt text](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Thumbnail.jpg)](https://www.youtube.com/watch?v=NwK5qySm0T8&feature=youtu.be)
 
-
-![RGB Blinky Keychain](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Keychain_Image.jpg)
 <div align="left"> 
 
 These are the blinky boards that NYU plans to include in the welcome kits for the class of 2024. This RGB Blinky board features RGB breathing lights, PCB Art and doubles as a soldering practice kit. 1600 of these are manufactured in total. NYU is also planning to have these boards manufactured for the class of 2025 as well.
