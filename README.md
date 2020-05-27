@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=NwK5qySm0T8&feature=youtu.be)
+[![Alt text](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Thumbnail.jpg)](https://www.youtube.com/watch?v=NwK5qySm0T8&feature=youtu.be)
 
 
 ![RGB Blinky Keychain](https://github.com/rhitvik/RGB_Blinky_Keychain/blob/master/Images_and_Screenshots/RGB_Blinky_Keychain_Image.jpg)
